@@ -1,0 +1,8 @@
+{
+  "name": "Bibi đi chơi nha",
+  "description": "Trang web gửi lời mời đi chơi siêu dễ thương với các câu hỏi và hiệu ứng đặc biệt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
